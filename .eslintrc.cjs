@@ -13,7 +13,6 @@ module.exports = {
 	},
 	plugins: ['@typescript-eslint'],
 	rules: {
-		indent: ['Error', 'tab'],
 		'object-curly-spacing': ['Error', 'always'],
 		'operator-linebreak': ['error', 'after'],
 	},
